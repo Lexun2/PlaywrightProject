@@ -20,6 +20,8 @@ def test_login_failure(login_page, username, password, result):
 """как дела ослики"""
 
 """Как дела лошадки"""
+
+"""Как дела бездельники"""
 @allure.feature('Login')
 @allure.story('Login Feature')
 @allure.title("Позитивный тест авторизации")
