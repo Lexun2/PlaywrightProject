@@ -19,7 +19,6 @@ def test_login_failure(login_page, username, password, result):
         assert login_page.get_error_message() == result
 """как дела ослики"""
 
-"""Как дела лошадки"""
 
 """Как дела бездельники"""
 @allure.feature('Login')
