@@ -17,7 +17,9 @@ def test_login_failure(login_page, username, password, result):
         login_page.login(username, password)
     with allure.step('Отображается ошибка - Invalid credentials. Please try again.'):
         assert login_page.get_error_message() == result
+"""как дела ослики"""
 
+"""Как дела лошадки"""
 @allure.feature('Login')
 @allure.story('Login Feature')
 @allure.title("Позитивный тест авторизации")
