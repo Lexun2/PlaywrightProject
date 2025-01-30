@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","4100","Негативный тест авторизации","","Thu Jan 30 07:19:38 GMT 2025","passed","Thu Jan 30 07:19:42 GMT 2025","","test_login","",""
+"","4123","Позитивный тест авторизации","","Thu Jan 30 07:19:47 GMT 2025","passed","Thu Jan 30 07:19:51 GMT 2025","","test_login","",""
+"","4104","Негативный тест авторизации","","Thu Jan 30 07:19:34 GMT 2025","passed","Thu Jan 30 07:19:38 GMT 2025","","test_login","",""
+"","4365","Негативный тест авторизации","","Thu Jan 30 07:19:30 GMT 2025","passed","Thu Jan 30 07:19:34 GMT 2025","","test_login","",""
+"","4245","Позитивный тест авторизации","","Thu Jan 30 07:19:42 GMT 2025","passed","Thu Jan 30 07:19:47 GMT 2025","","test_login","",""
